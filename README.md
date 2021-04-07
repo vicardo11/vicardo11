@@ -27,4 +27,4 @@
 - ⏰ Early bird <br>
 - 🍱 Eating healthily <br>
 - 📚 Books lover <br>
-- 🌅 Summer is the only proper season of the yea <br>
+- 🌅 Summer is the only proper season of the year <br>
