@@ -11,11 +11,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Klasa abstrakcyjna a interfejs](https://sosinski.it/klasa-abstrakcyjna-a-interfejs/)
 - [Collections Framework](https://sosinski.it/collections-framework/)
 - [Equals i Hashcode](https://sosinski.it/equals-i-hashcode/)
 - [Java jako język obiektowy](https://sosinski.it/java-jako-jezyk-obiektowy/)
 - [Stos, sterta oraz Garbage Collector](https://sosinski.it/stos-sterta-oraz-garbage-collector/)
-- [Słówka kluczowe static oraz final](https://sosinski.it/slowka-kluczowe-static-oraz-final/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Find me here:</h3>
