@@ -11,11 +11,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Obiekty niemutowalne](https://sosinski.it/obiekty-niemutowalne/)
 - [Klasa abstrakcyjna a interfejs](https://sosinski.it/klasa-abstrakcyjna-a-interfejs/)
 - [Collections Framework](https://sosinski.it/collections-framework/)
 - [Equals i Hashcode](https://sosinski.it/equals-i-hashcode/)
 - [Java jako język obiektowy](https://sosinski.it/java-jako-jezyk-obiektowy/)
-- [Stos, sterta oraz Garbage Collector](https://sosinski.it/stos-sterta-oraz-garbage-collector/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Find me here:</h3>
