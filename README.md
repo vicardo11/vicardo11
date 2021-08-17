@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">Hard-working, self-taught Java Developer</h3>
 
-- 🔭 I’m currently working on [Lets-meet](https://github.com/vicardo11/crossbook-app)
+- 🔭 I’m currently working on [Crossbook-app](https://github.com/vicardo11/crossbook-app)
 
 - 🌱 I’m currently learning **Angular**
 
