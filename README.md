@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Crossbook-app](https://github.com/vicardo11/crossbook-app)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently preparing to **Oracle Certified Associate Exam**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vicardo11?tab=repositories](https://github.com/vicardo11?tab=repositories)
 
