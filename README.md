@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">Hard-working, self-taught Java Developer</h3>
 
-- 🔭 I’m currently working on [Crossbook-app](https://github.com/vicardo11/crossbook-app)
+- 🔭 I’m currently working on [Crossbook-app](https://github.com/vicardo11/finance-control)
 
 - 🌱 I’m currently preparing to **Oracle Certified Associate Exam**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vicardo11?tab=repositories](https://github.com/vicardo11?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.sosinski.it/](https://www.sosinski.it/)
+- 📝 I write articles on [https://www.sosinski.it/](https://www.sosinski.it/)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
