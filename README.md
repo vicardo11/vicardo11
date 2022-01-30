@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">Hard-working, self-taught Java Developer</h3>
 
-- 🔭 I’m currently working on [Finance-control-app](https://github.com/vicardo11/finance-control)
+- 🔭 I’m currently working on [Finance-control app](https://github.com/vicardo11/finance-control)
 
 - 🌱 I’m currently preparing to **Oracle Certified Associate Exam**
 
