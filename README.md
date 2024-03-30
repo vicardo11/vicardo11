@@ -1,7 +1,7 @@
 
 ## Hi 👋, I'm Patryk - Software Engineer
 
-[<img src="/banner.png">]()
+[<img src="/banner-new.png">]()
 ### I’m currently working on the MojHome app
 
   - [Backend code](https://github.com/vicardo11/mojhome-backend)
