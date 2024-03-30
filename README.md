@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">Hard-working, self-taught Java Developer</h3>
 
-- 🔭 I’m currently working on [Budget app](https://github.com/vicardo11/budget)
-
-- 👨‍💻 All of my projects are available at [https://github.com/vicardo11?tab=repositories](https://github.com/vicardo11?tab=repositories)
+🔭 I’m currently working on the MojHome app:
+  - [Backend code](https://github.com/vicardo11/mojhome-backend)
+  - [Frontend code](https://github.com/vicardo11/mojhome-frontend)
 
 <h3 align="left">Find me here:</h3>
 <h4>(Turn on light mode to see icons)</h4>
